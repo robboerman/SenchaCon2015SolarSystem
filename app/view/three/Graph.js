@@ -50,7 +50,7 @@ Ext.define('Threext.view.three.Graph', {
 		"void main() {",
 		"	vColor = color;",
 		"	vec4 mvPosition = modelViewMatrix * vec4(position, 1.0);",
-		"	gl_PointSize = log2(size * size);",
+		"	gl_PointSize = 1750.0 * (log2(size * size) / length( mvPosition.xyz ));",
 		"	gl_Position = projectionMatrix * mvPosition;",
 		"}"
 	].join('\n'),
@@ -78,7 +78,7 @@ Ext.define('Threext.view.three.Graph', {
 	linkFShader: [
 		"varying float vAlpha;",
 		"void main() {",
-		"	gl_FragColor = vec4( 0.8,1,1, vAlpha );",
+		"	gl_FragColor = vec4( 1,1,1, vAlpha );",
 		"}"
 	].join('\n'),
 
@@ -100,22 +100,22 @@ Ext.define('Threext.view.three.Graph', {
 
 
 		this.nodeMaterial = new THREE.ShaderMaterial({
-			uniforms: this.nodeUniforms,
-			attributes: this.nodeAttributes,
-			vertexShader: this.nodeVShader,
-			fragmentShader: this.nodeFShader,
-			vertexColors: THREE.VertexColors,
-			transparent: true,
-		}),
+				uniforms: this.nodeUniforms,
+				attributes: this.nodeAttributes,
+				vertexShader: this.nodeVShader,
+				fragmentShader: this.nodeFShader,
+				vertexColors: THREE.VertexColors,
+				transparent: true,
+			}),
 
-		this.linkMaterial = new THREE.ShaderMaterial({
-			uniforms: this.linkUniforms,
-			attributes: this.linkAttributes,
-			vertexShader: this.linkVShader,
-			fragmentShader: this.linkFShader,
-			vertexColors: THREE.VertexColors,
-			transparent: true,
-		});
+			this.linkMaterial = new THREE.ShaderMaterial({
+				uniforms: this.linkUniforms,
+				attributes: this.linkAttributes,
+				vertexShader: this.linkVShader,
+				fragmentShader: this.linkFShader,
+				vertexColors: THREE.VertexColors,
+				transparent: true,
+			});
 
 		return this.callParent(arguments);
 	},
@@ -279,7 +279,7 @@ Ext.define('Threext.view.three.Graph', {
 
 		_.each(nodes, function(i) {
 			var p = nodeElements[i.id];
-			p.add(p.velocity);
+			p.add(p.velocity.multiplyScalar(0.9));
 			i.x = p.x;
 			i.y = p.y;
 			i.z = p.z;
