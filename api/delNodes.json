@@ -1,0 +1,2129 @@
+[{
+	"id": 1867,
+	"key": "A23F 03/14",
+	"size": 4852.0,
+	"type": "Tea preparations, e.g. using additives",
+	"category": "Other",
+	"purpose": "Coffee; tea; their substitutes; manufacture, preparation, or infusion thereof"
+}, {
+	"id": 2138,
+	"key": "A23L 01/303",
+	"size": 2770.0,
+	"type": "Vitamins A or D",
+	"category": "Other",
+	"purpose": "Foods, foodstuffs, or non-alcoholic beverages, not covered by subclasses  or ; their preparation or treatment, e.g. cooking, modification of nutritive qualities, physical treatment; preservation of foods or foodstuffs, in general"
+}, {
+	"id": 5773,
+	"key": "A61F 13/14",
+	"size": 2552.0,
+	"type": "specially adapted for the breast or abdomen",
+	"category": "Other",
+	"purpose": "Filters implantable into blood vessels; prostheses; devices providing patency to, or preventing collapsing of, tubular structures of the body, e.g. stents; orthopaedic, nursing or contraceptive devices; fomentation; treatment or protection of eyes or ears; bandages, dressings or absorbent pads; first-aid kits"
+}, {
+	"id": 6132,
+	"key": "A61K 31/01",
+	"size": 2685.0,
+	"type": "Hydrocarbons",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6133,
+	"key": "A61K 31/015",
+	"size": 5399.0,
+	"type": "carbocyclic",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6149,
+	"key": "A61K 31/09",
+	"size": 2975.0,
+	"type": "having two or more such linkages",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6157,
+	"key": "A61K 31/122",
+	"size": 11339.0,
+	"type": "having the oxygen atom directly attached to a ring, e.g. quinones, vitamin K1, anthralin",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6162,
+	"key": "A61K 31/133",
+	"size": 3293.0,
+	"type": "having hydroxy groups, e.g. sphingosine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6164,
+	"key": "A61K 31/136",
+	"size": 5464.0,
+	"type": "having the amino group directly attached to the aromatic ring, e.g. benzeneamine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6913,
+	"key": "A61K 39/42",
+	"size": 4095.0,
+	"type": "viral",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6939,
+	"key": "A61K 47/40",
+	"size": 10047.0,
+	"type": "Cyclodextrins; Derivatives thereof",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6957,
+	"key": "A61K 51/00",
+	"size": 23237.0,
+	"type": "Preparations containing radioactive substances for use in therapy or testing in vivo",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6961,
+	"key": "A61K 51/08",
+	"size": 6153.0,
+	"type": "Peptides, e.g. proteins",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6962,
+	"key": "A61K 51/10",
+	"size": 7255.0,
+	"type": "Antibodies or immunoglobulins; Fragments thereof",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6841,
+	"key": "A61K 38/46",
+	"size": 20140.0,
+	"type": "Hydrolases (3)",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6852,
+	"key": "A61K 38/57",
+	"size": 3462.0,
+	"type": "from animals; from humans",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6854,
+	"key": "A61K 39/00",
+	"size": 111813.0,
+	"type": "Medicinal preparations containing antigens or antibodies",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6862,
+	"key": "A61K 39/04",
+	"size": 4937.0,
+	"type": "Mycobacterium, e.g. Mycobacterium tuberculosis",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6892,
+	"key": "A61K 39/21",
+	"size": 10755.0,
+	"type": "Retroviridae, e.g. equine infectious anemia virus",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6909,
+	"key": "A61K 39/385",
+	"size": 11138.0,
+	"type": "Haptens or antigens, bound to carriers",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6812,
+	"key": "A61K 38/17",
+	"size": 51064.0,
+	"type": "from animals; from humans",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6816,
+	"key": "A61K 38/21",
+	"size": 24066.0,
+	"type": "Interferons",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6819,
+	"key": "A61K 38/24",
+	"size": 4735.0,
+	"type": "Follicle-stimulating hormone (FSH); Chorionic gonadotropins, e.g. HCG; Luteinising hormone (LH); Thyroid-stimulating hormone (TSH)",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6821,
+	"key": "A61K 38/26",
+	"size": 5387.0,
+	"type": "Glucagons",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6838,
+	"key": "A61K 38/43",
+	"size": 16928.0,
+	"type": "Enzymes; Proenzymes; Derivatives thereof",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6840,
+	"key": "A61K 38/45",
+	"size": 6270.0,
+	"type": "Transferases (2)",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6779,
+	"key": "A61K 36/8968",
+	"size": 2596.0,
+	"type": "Ophiopogon (Lilyturf)",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6793,
+	"key": "A61K 36/9066",
+	"size": 6229.0,
+	"type": "Curcuma, e.g. common turmeric, East Indian arrowroot or mango ginger",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6794,
+	"key": "A61K 36/9068",
+	"size": 6180.0,
+	"type": "Zingiber, e.g. garden ginger",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6795,
+	"key": "A61K 38/00",
+	"size": 346793.0,
+	"type": "Medicinal preparations containing peptides",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6802,
+	"key": "A61K 38/07",
+	"size": 3828.0,
+	"type": "Tetrapeptides",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6808,
+	"key": "A61K 38/13",
+	"size": 6227.0,
+	"type": "Cyclosporins",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6750,
+	"key": "A61K 36/81",
+	"size": 4728.0,
+	"type": "Solanaceae (Potato family), e.g. tobacco, nightshade, tomato, belladonna, capsicum or jimsonweed",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6751,
+	"key": "A61K 36/815",
+	"size": 2873.0,
+	"type": "Lycium (desert-thorn)",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6752,
+	"key": "A61K 36/82",
+	"size": 4434.0,
+	"type": "Theaceae (Tea family), e.g. camellia",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6767,
+	"key": "A61K 36/889",
+	"size": 3175.0,
+	"type": "Arecaceae, Palmae or Palmaceae (Palm family), e.g. date or coconut palm or palmetto",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6772,
+	"key": "A61K 36/8945",
+	"size": 2810.0,
+	"type": "Dioscorea, e.g. yam, Chinese yam or water yam",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6773,
+	"key": "A61K 36/896",
+	"size": 5695.0,
+	"type": "Liliaceae (Lily family), e.g. daylily, plantain lily, Hyacinth or narcissus",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6601,
+	"key": "A61K 36/07",
+	"size": 3492.0,
+	"type": "Basidiomycota, e.g. Cryptococcus",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6632,
+	"key": "A61K 36/258",
+	"size": 4702.0,
+	"type": "Panax (ginseng)",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6648,
+	"key": "A61K 36/31",
+	"size": 2551.0,
+	"type": "Brassicaceae or Cruciferae (Mustard family), e.g. broccoli, cabbage or kohlrabi",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6673,
+	"key": "A61K 36/47",
+	"size": 2834.0,
+	"type": "Euphorbiaceae (Spurge family), e.g. Ricinus (castorbean)",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6722,
+	"key": "A61K 36/71",
+	"size": 4106.0,
+	"type": "Ranunculaceae (Buttercup family), e.g. larkspur, hepatica, hydrastis, columbine or goldenseal",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6739,
+	"key": "A61K 36/752",
+	"size": 4242.0,
+	"type": "Citrus, e.g. lime, orange or lemon",
+	"category": "Medical preparations (plant or microorganism origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6569,
+	"key": "A61K 35/36",
+	"size": 6518.0,
+	"type": "Skin; Hair; Nails; Sebaceous glands; Cerumen",
+	"category": "Medical preparations (human or animal origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6581,
+	"key": "A61K 35/55",
+	"size": 2828.0,
+	"type": "Glands not provided for in one of the preceding subgroups of this main group",
+	"category": "Medical preparations (human or animal origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6582,
+	"key": "A61K 35/56",
+	"size": 14098.0,
+	"type": "Materials from animals other than mammals or birds",
+	"category": "Medical preparations (human or animal origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6583,
+	"key": "A61K 35/58",
+	"size": 2705.0,
+	"type": "Snakes",
+	"category": "Medical preparations (human or animal origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6584,
+	"key": "A61K 35/60",
+	"size": 3734.0,
+	"type": "Fish",
+	"category": "Medical preparations (human or animal origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6586,
+	"key": "A61K 35/64",
+	"size": 17152.0,
+	"type": "Insects, e.g. royal jelly",
+	"category": "Medical preparations (human or animal origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6540,
+	"key": "A61K 33/26",
+	"size": 8004.0,
+	"type": "Iron; Compounds thereof",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6543,
+	"key": "A61K 33/32",
+	"size": 2638.0,
+	"type": "Manganese; Compounds thereof",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6550,
+	"key": "A61K 35/00",
+	"size": 6652.0,
+	"type": "Medicinal preparations containing material or reaction products thereof with undetermined constitution",
+	"category": "Medical preparations (human or animal origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6565,
+	"key": "A61K 35/28",
+	"size": 6220.0,
+	"type": "Marrow; Spleen",
+	"category": "Medical preparations (human or animal origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6566,
+	"key": "A61K 35/30",
+	"size": 3457.0,
+	"type": "Nerves; Brain",
+	"category": "Medical preparations (human or animal origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6567,
+	"key": "A61K 35/32",
+	"size": 7441.0,
+	"type": "Bones; Tendons; Teeth; Cartilage",
+	"category": "Medical preparations (human or animal origin)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6484,
+	"key": "A61K 31/7105",
+	"size": 8023.0,
+	"type": "Natural ribonucleic acids, i.e. containing only riboses attached to adenine, guanine, cytosine or uracil and having 3-5 phosphodiester links",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6488,
+	"key": "A61K 31/7125",
+	"size": 2868.0,
+	"type": "Nucleic acids or oligonucleotides having modified internucleoside linkage, i.e. other than 3-5 phosphodiesters",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6489,
+	"key": "A61K 31/713",
+	"size": 7186.0,
+	"type": "Double-stranded nucleic acids or oligonucleotides",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6500,
+	"key": "A61K 31/724",
+	"size": 2678.0,
+	"type": "Cyclodextrins",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6502,
+	"key": "A61K 31/727",
+	"size": 5696.0,
+	"type": "Heparin; Heparan",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6539,
+	"key": "A61K 33/24",
+	"size": 18615.0,
+	"type": "Heavy metals; Compounds thereof",
+	"category": "Other",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6466,
+	"key": "A61K 31/7024",
+	"size": 4173.0,
+	"type": "Esters of saccharides",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6469,
+	"key": "A61K 31/7034",
+	"size": 9641.0,
+	"type": "attached to a carbocyclic compound, e.g. phloridzin",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6471,
+	"key": "A61K 31/704",
+	"size": 17982.0,
+	"type": "attached to a condensed carbocyclic ring system, e.g. sennosides, thiocolchicosides, escin, daunorubicin, digitoxin",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6476,
+	"key": "A61K 31/706",
+	"size": 3829.0,
+	"type": "containing six-membered rings with nitrogen as a ring hetero atom",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6478,
+	"key": "A61K 31/7068",
+	"size": 8655.0,
+	"type": "having oxo groups directly attached to the pyrimidine ring, e.g. cytidine, cytidylic acid",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6483,
+	"key": "A61K 31/7088",
+	"size": 32229.0,
+	"type": "Compounds having three or more nucleosides or nucleotides",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6427,
+	"key": "A61K 31/58",
+	"size": 17942.0,
+	"type": "containing heterocyclic rings, e.g. aldosterone, danazol, stanozolol, pancuronium, digitogenin",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6429,
+	"key": "A61K 31/59",
+	"size": 9819.0,
+	"type": "Compounds containing 9,10-seco-cyclopenta[a]hydro- phenanthrene ring systems",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6431,
+	"key": "A61K 31/593",
+	"size": 3948.0,
+	"type": "9,10-Secocholestane derivatives, e.g. cholecalciferol, vitamin D3",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6437,
+	"key": "A61K 31/616",
+	"size": 3695.0,
+	"type": "by carboxylic acids, e.g. acetylsalicylic acid",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6447,
+	"key": "A61K 31/661",
+	"size": 5661.0,
+	"type": "Phosphorus acids or esters thereof not having PC bonds, e.g. fosfosal, dichlorvos, malathion",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6462,
+	"key": "A61K 31/7008",
+	"size": 3783.0,
+	"type": "Compounds having an amino group directly attached to a carbon atom of the saccharide radical, e.g. D-galactosamine, ranimustine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6410,
+	"key": "A61K 31/555",
+	"size": 8496.0,
+	"type": "containing heavy metals, e.g. hemin, hematin, melarsoprol",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6417,
+	"key": "A61K 31/56",
+	"size": 24243.0,
+	"type": "Compounds containing cyclopenta[a]hydrophenanthrene ring systems; Derivatives thereof, e.g. steroids",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6418,
+	"key": "A61K 31/565",
+	"size": 23654.0,
+	"type": "not substituted in position 17 beta by a carbon atom, e.g. oestrane, oestradiol",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6419,
+	"key": "A61K 31/566",
+	"size": 3188.0,
+	"type": "having an oxo group in position 17, e.g. oestrone",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6420,
+	"key": "A61K 31/567",
+	"size": 4779.0,
+	"type": "substituted in position 17 alpha, e.g. mestranol, norethandrolone",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6421,
+	"key": "A61K 31/568",
+	"size": 4977.0,
+	"type": "substituted in positions 10 and 13 by a chain having at least one carbon atom, e.g. androstane, testosterone",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6376,
+	"key": "A61K 31/519",
+	"size": 48218.0,
+	"type": "ortho- or peri-condensed with heterocyclic rings",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6382,
+	"key": "A61K 31/53",
+	"size": 19571.0,
+	"type": "having six-membered rings with three nitrogens as the only ring hetero atoms, e.g. chlorazanil, melamine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6390,
+	"key": "A61K 31/538",
+	"size": 7485.0,
+	"type": "ortho- or peri-condensed with carbocyclic ring systems",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6398,
+	"key": "A61K 31/542",
+	"size": 2751.0,
+	"type": "ortho- or peri-condensed with heterocyclic ring systems",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6403,
+	"key": "A61K 31/549",
+	"size": 2958.0,
+	"type": "having two or more nitrogen atoms in the same ring, e.g. hydrochlorothiazide",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6407,
+	"key": "A61K 31/5517",
+	"size": 4289.0,
+	"type": "condensed with five-membered rings having nitrogen as a ring hetero atom, e.g. imidazobenzodiazepines, triazolam",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6347,
+	"key": "A61K 31/4741",
+	"size": 3203.0,
+	"type": "condensed with ring systems having oxygen as a ring hetero atom, e.g. tubocuraran derivatives, noscapine, bicuculline",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6352,
+	"key": "A61K 31/475",
+	"size": 8457.0,
+	"type": "having an indole ring, e.g. yohimbine, reserpine, strychnine, vinblastine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6360,
+	"key": "A61K 31/498",
+	"size": 11567.0,
+	"type": "Pyrazines or piperazines ortho- or peri-condensed with carbocyclic ring systems, e.g. quinoxaline, phenazine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6366,
+	"key": "A61K 31/502",
+	"size": 6495.0,
+	"type": "ortho- or peri-condensed with carbocyclic ring systems, e.g. cinnoline, phthalazine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6367,
+	"key": "A61K 31/5025",
+	"size": 5660.0,
+	"type": "ortho- or peri-condensed with heterocyclic ring systems",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6371,
+	"key": "A61K 31/506",
+	"size": 48797.0,
+	"type": "not condensed and containing further heterocyclic rings",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6303,
+	"key": "A61K 31/438",
+	"size": 7051.0,
+	"type": "the ring being spiro-condensed with carbocyclic or heterocyclic ring systems",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6321,
+	"key": "A61K 31/4453",
+	"size": 8480.0,
+	"type": "only substituted in position 1, e.g. propipocaine, diperodon",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6332,
+	"key": "A61K 31/453",
+	"size": 4986.0,
+	"type": "containing a six-membered ring with oxygen as a ring hetero atom",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6333,
+	"key": "A61K 31/4535",
+	"size": 9854.0,
+	"type": "containing a heterocyclic ring having sulfur as a ring hetero atom, e.g. pizotifen",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6341,
+	"key": "A61K 31/4706",
+	"size": 3798.0,
+	"type": "4-Aminoquinolines; 8-Aminoquinolines, e.g. chloroquine, primaquine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6345,
+	"key": "A61K 31/473",
+	"size": 9978.0,
+	"type": "ortho- or peri-condensed with carbocyclic ring systems, e.g. acridines, phenanthridines",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6292,
+	"key": "A61K 31/429",
+	"size": 4262.0,
+	"type": "condensed with heterocyclic ring systems",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6295,
+	"key": "A61K 31/433",
+	"size": 11965.0,
+	"type": "Thiadiazoles",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6298,
+	"key": "A61K 31/4355",
+	"size": 3464.0,
+	"type": "the heterocyclic ring system containing a five-membered ring having oxygen as a ring hetero atom",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6299,
+	"key": "A61K 31/436",
+	"size": 8335.0,
+	"type": "the heterocyclic ring system containing a six-membered ring having oxygen as a ring hetero atom, e.g. rapamycin",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6301,
+	"key": "A61K 31/437",
+	"size": 33496.0,
+	"type": "the heterocyclic ring system containing a five-membered ring having nitrogen as a ring hetero atom, e.g. indolizine, beta-carboline",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6302,
+	"key": "A61K 31/4375",
+	"size": 13055.0,
+	"type": "the heterocyclic ring system containing a six-membered ring having nitrogen as a ring hetero atom, e.g. quinolizines, naphthyridines, berberine, vinca",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6264,
+	"key": "A61K 31/409",
+	"size": 3176.0,
+	"type": "having four such rings, e.g. porphine derivatives, bilirubin, biliverdine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6272,
+	"key": "A61K 31/4166",
+	"size": 8002.0,
+	"type": "having oxo groups directly attached to the heterocyclic ring, e.g. phenytoin",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6279,
+	"key": "A61K 31/4188",
+	"size": 7366.0,
+	"type": "condensed with heterocyclic ring systems, e.g. biotin, sorbinil",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6280,
+	"key": "A61K 31/4192",
+	"size": 5672.0,
+	"type": "1,2,3-Triazoles",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6281,
+	"key": "A61K 31/4196",
+	"size": 13558.0,
+	"type": "1,2,4-Triazoles",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6290,
+	"key": "A61K 31/427",
+	"size": 27150.0,
+	"type": "not condensed and containing further heterocyclic rings",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6203,
+	"key": "A61K 31/232",
+	"size": 2614.0,
+	"type": "having three or more double bonds, e.g. etretinate",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6213,
+	"key": "A61K 31/277",
+	"size": 8936.0,
+	"type": "having a ring, e.g. verapamil",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6215,
+	"key": "A61K 31/282",
+	"size": 5225.0,
+	"type": "Platinum compounds",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6229,
+	"key": "A61K 31/337",
+	"size": 16660.0,
+	"type": "having four-membered rings, e.g. taxol",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6241,
+	"key": "A61K 31/365",
+	"size": 19231.0,
+	"type": "Lactones",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6263,
+	"key": "A61K 31/407",
+	"size": 14681.0,
+	"type": "condensed with heterocyclic ring systems, e.g. ketorolac, physostigmine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6166,
+	"key": "A61K 31/138",
+	"size": 11840.0,
+	"type": "Aryloxyalkylamines, e.g. propranolol, tamoxifen, phenoxybenzamine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6169,
+	"key": "A61K 31/15",
+	"size": 6980.0,
+	"type": "Oximes (CNO); Hydrazines (NN); Hydrazones (NN)",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6172,
+	"key": "A61K 31/164",
+	"size": 2737.0,
+	"type": "of a carboxylic acid with an aminoalcohol, e.g. ceramides",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6185,
+	"key": "A61K 31/196",
+	"size": 10121.0,
+	"type": "the amino group being directly attached to a ring, e.g. anthranilic acid, mefenamic acid, diclofenac, chlorambucil",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6191,
+	"key": "A61K 31/203",
+	"size": 3552.0,
+	"type": "Retinoic acids",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 6198,
+	"key": "A61K 31/222",
+	"size": 3987.0,
+	"type": "with compounds having aromatic groups, e.g. dipivefrine, ibopamine",
+	"category": "Medical preparations (organic)",
+	"purpose": "Preparations for medical, dental, or toilet purposes"
+}, {
+	"id": 7358,
+	"key": "A61P 01/16",
+	"size": 56411.0,
+	"type": "for liver or gallbladder disorders, e.g. hepatoprotective agents, cholagogues, litholytics",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7359,
+	"key": "A61P 01/18",
+	"size": 13002.0,
+	"type": "for pancreatic disorders, e.g. pancreatic enzymes",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7360,
+	"key": "A61P 03/00",
+	"size": 56579.0,
+	"type": "Drugs for disorders of the metabolism",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7375,
+	"key": "A61P 05/14",
+	"size": 8684.0,
+	"type": "of the thyroid hormones, e.g. T3, T4",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7380,
+	"key": "A61P 05/24",
+	"size": 6860.0,
+	"type": "of the sex hormones",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7383,
+	"key": "A61P 05/30",
+	"size": 5139.0,
+	"type": "Oestrogens",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7510,
+	"key": "A61P 37/00",
+	"size": 77735.0,
+	"type": "Drugs for immunological or allergic disorders",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7511,
+	"key": "A61P 37/02",
+	"size": 52677.0,
+	"type": "Immunomodulators",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7487,
+	"key": "A61P 31/00",
+	"size": 60417.0,
+	"type": "Antiinfectives, i.e. antibiotics, antiseptics, chemotherapeutics",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7490,
+	"key": "A61P 31/06",
+	"size": 8107.0,
+	"type": "for tuberculosis",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7497,
+	"key": "A61P 31/20",
+	"size": 12470.0,
+	"type": "for DNA viruses",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7507,
+	"key": "A61P 35/00",
+	"size": 383539.0,
+	"type": "Antineoplastic agents",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7508,
+	"key": "A61P 35/02",
+	"size": 39896.0,
+	"type": "specific for leukemia",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7509,
+	"key": "A61P 35/04",
+	"size": 24566.0,
+	"type": "specific for metastasis",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7433,
+	"key": "A61P 15/16",
+	"size": 3186.0,
+	"type": "Masculine contraceptives",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7437,
+	"key": "A61P 17/04",
+	"size": 14906.0,
+	"type": "Antipruritics",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7450,
+	"key": "A61P 19/10",
+	"size": 45914.0,
+	"type": "for osteoporosis",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7455,
+	"key": "A61P 23/00",
+	"size": 6000.0,
+	"type": "Anaesthetics",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7464,
+	"key": "A61P 25/14",
+	"size": 29073.0,
+	"type": "for treating abnormal movements, e.g. chorea, dyskinesia",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7479,
+	"key": "A61P 27/06",
+	"size": 23588.0,
+	"type": "Antiglaucoma agents or miotics",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7424,
+	"key": "A61P 13/12",
+	"size": 56943.0,
+	"type": "of the kidneys",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7425,
+	"key": "A61P 15/00",
+	"size": 70869.0,
+	"type": "Drugs for genital or sexual disorders; Contraceptives",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7426,
+	"key": "A61P 15/02",
+	"size": 4872.0,
+	"type": "for disorders of the vagina",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7428,
+	"key": "A61P 15/06",
+	"size": 5415.0,
+	"type": "Antiabortive agents; Labour repressants",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7431,
+	"key": "A61P 15/12",
+	"size": 6414.0,
+	"type": "for climacteric disorders",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7432,
+	"key": "A61P 15/14",
+	"size": 3784.0,
+	"type": "for lactation disorders, e.g. galactorrhoea",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7384,
+	"key": "A61P 05/32",
+	"size": 2764.0,
+	"type": "Antioestrogens",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7409,
+	"key": "A61P 11/00",
+	"size": 113905.0,
+	"type": "Drugs for disorders of the respiratory system",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7411,
+	"key": "A61P 11/04",
+	"size": 5212.0,
+	"type": "for throat disorders",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7417,
+	"key": "A61P 11/16",
+	"size": 3727.0,
+	"type": "Central respiratory analeptics",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7422,
+	"key": "A61P 13/08",
+	"size": 19192.0,
+	"type": "of the prostate",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 7423,
+	"key": "A61P 13/10",
+	"size": 11035.0,
+	"type": "of the bladder",
+	"category": "",
+	"purpose": "Specific therapeutic activity of chemical compounds or medicinal preparations"
+}, {
+	"id": 27540,
+	"key": "C07B 59/00",
+	"size": 5164.0,
+	"type": "Introduction of isotopes of elements into organic compounds",
+	"category": "Other",
+	"purpose": "General methods of organic chemistry; apparatus therefor"
+}, {
+	"id": 28157,
+	"key": "C07C 39/17",
+	"size": 3207.0,
+	"type": "containing other rings in addition to the six-membered aromatic rings",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 28268,
+	"key": "C07C 45/28",
+	"size": 3315.0,
+	"type": "of CHx-moieties",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 28528,
+	"key": "C07C 49/697",
+	"size": 2663.0,
+	"type": "containing six-membered aromatic rings",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 28538,
+	"key": "C07C 49/747",
+	"size": 3854.0,
+	"type": "containing six-membered aromatic rings",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 28540,
+	"key": "C07C 49/755",
+	"size": 2583.0,
+	"type": "a keto group being part of a condensed ring system with two or three rings, at least one ring being a six-membered aromatic ring",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 28980,
+	"key": "C07C 69/157",
+	"size": 3128.0,
+	"type": "containing six-membered aromatic rings",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 30251,
+	"key": "C07C 317/22",
+	"size": 8580.0,
+	"type": "with sulfone or sulfoxide groups bound to carbon atoms of six-membered aromatic rings of the carbon skeleton",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 30485,
+	"key": "C07C 401/00",
+	"size": 13444.0,
+	"type": "Irradiation products of cholesterol or its derivatives; Vitamin D derivatives, 9,10-seco cyclopenta[a]phenanthrene or analogues obtained by chemical p",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 29729,
+	"key": "C07C 251/44",
+	"size": 2955.0,
+	"type": "with the carbon atom of at least one of the oxyimino groups being part of a ring other than a six-membered aromatic ring",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 29830,
+	"key": "C07C 255/60",
+	"size": 3884.0,
+	"type": "at least one of the singly-bound nitrogen atoms being acylated",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 30055,
+	"key": "C07C 307/02",
+	"size": 2677.0,
+	"type": "Monoamides of sulfuric acids or esters thereof, e.g. sulfamic acids",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 30125,
+	"key": "C07C 309/65",
+	"size": 4117.0,
+	"type": "of a saturated carbon skeleton",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 30171,
+	"key": "C07C 311/21",
+	"size": 5432.0,
+	"type": "having the nitrogen atom of at least one of the sulfonamide groups bound to a carbon atom of a six-membered aromatic ring",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 30201,
+	"key": "C07C 311/51",
+	"size": 3478.0,
+	"type": "Y being a hydrogen or a carbon atom",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 29044,
+	"key": "C07C 69/757",
+	"size": 5315.0,
+	"type": "having any of the groups OH, O-metal, CHO, keto, ether, acyloxy,  groups,  groups, or  in the acid moiety",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 29057,
+	"key": "C07C 69/94",
+	"size": 4376.0,
+	"type": "of polycyclic hydroxy carboxylic acids, the hydroxy groups and the carboxyl groups of which are bound to carbon atoms of six-membered aromatic rings",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 29263,
+	"key": "C07C 215/08",
+	"size": 3598.0,
+	"type": "with only one hydroxy group and one amino group bound to the carbon skeleton",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 29475,
+	"key": "C07C 233/05",
+	"size": 4116.0,
+	"type": "having the nitrogen atoms of the carboxamide groups bound to hydrogen atoms or to acyclic carbon atoms",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 29495,
+	"key": "C07C 233/25",
+	"size": 5348.0,
+	"type": "having the carbon atom of the carboxamide group bound to a hydrogen atom or to a carbon atom of an acyclic saturated carbon skeleton",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 29571,
+	"key": "C07C 235/16",
+	"size": 2624.0,
+	"type": "having the nitrogen atom of at least one of the carboxamide groups bound to a carbon atom of a six-membered aromatic ring",
+	"category": "Organic chemistry (acylic)",
+	"purpose": "Acyclic or carbocyclic compounds"
+}, {
+	"id": 30606,
+	"key": "C07D 209/00",
+	"size": 5249.0,
+	"type": "Heterocyclic compounds containing five-membered rings, condensed with other rings, with one nitrogen atom as the only ring hetero atom",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30630,
+	"key": "C07D 209/46",
+	"size": 4754.0,
+	"type": "with an oxygen atom in position 1",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30802,
+	"key": "C07D 215/40",
+	"size": 2701.0,
+	"type": "attached in position 8",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30814,
+	"key": "C07D 217/02",
+	"size": 5620.0,
+	"type": "with only hydrogen atoms or radicals containing only carbon and hydrogen atoms, directly attached to carbon atoms of the nitrogen-containing ring; Alk",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30815,
+	"key": "C07D 217/04",
+	"size": 6046.0,
+	"type": "with hydrocarbon or substituted hydrocarbon radicals attached to the ring nitrogen atom",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30816,
+	"key": "C07D 217/06",
+	"size": 3743.0,
+	"type": "with the ring nitrogen atom acylated by carboxylic or carbonic acids, or with sulfur or nitrogen analogues thereof, e.g. carbamates",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 32004,
+	"key": "C07D 491/22",
+	"size": 5977.0,
+	"type": "in which the condensed system contains four or more hetero rings",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 32022,
+	"key": "C07D 495/10",
+	"size": 3727.0,
+	"type": "Spiro-condensed systems",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31912,
+	"key": "C07D 471/04",
+	"size": 111079.0,
+	"type": "Ortho-condensed systems",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31937,
+	"key": "C07D 473/30",
+	"size": 3017.0,
+	"type": "attached in position 6, e.g. hypoxanthine",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31939,
+	"key": "C07D 473/34",
+	"size": 7428.0,
+	"type": "attached in position 6, e.g. adenine",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31965,
+	"key": "C07D 487/00",
+	"size": 3486.0,
+	"type": "Heterocyclic compounds containing nitrogen atoms as the only ring hetero atoms in the condensed system, not provided for by groups ",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31995,
+	"key": "C07D 491/107",
+	"size": 5890.0,
+	"type": "with only one oxygen atom as ring hetero atom in the oxygen-containing ring",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 32003,
+	"key": "C07D 491/20",
+	"size": 3171.0,
+	"type": "Spiro-condensed systems",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31753,
+	"key": "C07D 333/68",
+	"size": 2612.0,
+	"type": "Carbon atoms having three bonds to hetero atoms with at the most one bond to halogen",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31784,
+	"key": "C07D 339/08",
+	"size": 4321.0,
+	"type": "Six-membered rings",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31821,
+	"key": "C07D 409/00",
+	"size": 2662.0,
+	"type": "Heterocyclic compounds containing two or more hetero rings, at least one ring having sulfur atoms as the only ring hetero atoms",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31846,
+	"key": "C07D 417/00",
+	"size": 3088.0,
+	"type": "Heterocyclic compounds containing two or more hetero rings, at least one ring having nitrogen and sulfur atoms as the only ring hetero atoms, not prov",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31851,
+	"key": "C07D 417/10",
+	"size": 7177.0,
+	"type": "linked by a carbon chain containing aromatic rings",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31881,
+	"key": "C07D 453/06",
+	"size": 2610.0,
+	"type": "containing iso-quinuclidine ring systems",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31572,
+	"key": "C07D 309/14",
+	"size": 2969.0,
+	"type": "Nitrogen atoms not forming part of a nitro radical",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31580,
+	"key": "C07D 309/30",
+	"size": 6616.0,
+	"type": "Oxygen atoms, e.g. delta-lactones",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31584,
+	"key": "C07D 309/38",
+	"size": 2557.0,
+	"type": "one oxygen atom in position 2 or 4, e.g. pyrones",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31620,
+	"key": "C07D 311/68",
+	"size": 2546.0,
+	"type": "with nitrogen atoms directly attached in position 4",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31712,
+	"key": "C07D 327/06",
+	"size": 2637.0,
+	"type": "Six-membered rings",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31747,
+	"key": "C07D 333/56",
+	"size": 5811.0,
+	"type": "Radicals substituted by oxygen atoms",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31366,
+	"key": "C07D 285/10",
+	"size": 3149.0,
+	"type": "1,2,5-Thiadiazoles; Hydrogenated 1,2,5-thiadiazoles",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31411,
+	"key": "C07D 295/092",
+	"size": 6541.0,
+	"type": "with aromatic radicals attached to the chain",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31499,
+	"key": "C07D 305/14",
+	"size": 7915.0,
+	"type": "condensed with carbocyclic rings or ring systems",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31525,
+	"key": "C07D 307/46",
+	"size": 4232.0,
+	"type": "Doubly bound oxygen atoms, or two oxygen atoms singly bound to the same carbon atom",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31570,
+	"key": "C07D 309/10",
+	"size": 4384.0,
+	"type": "Oxygen atoms",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31571,
+	"key": "C07D 309/12",
+	"size": 10844.0,
+	"type": "only hydrogen atoms and one oxygen atom directly attached to ring carbon atoms, e.g. tetrahydropyranyl ethers",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31169,
+	"key": "C07D 253/075",
+	"size": 2621.0,
+	"type": "Two hetero atoms, in positions 3 and 5",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31189,
+	"key": "C07D 261/12",
+	"size": 2539.0,
+	"type": "Oxygen atoms",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31197,
+	"key": "C07D 263/06",
+	"size": 3114.0,
+	"type": "with hydrocarbon radicals, substituted by oxygen atoms, attached to ring carbon atoms",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31307,
+	"key": "C07D 277/46",
+	"size": 6171.0,
+	"type": "by carboxylic acids, or sulfur or nitrogen analogues thereof",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31308,
+	"key": "C07D 277/48",
+	"size": 3627.0,
+	"type": "by radicals derived from carbonic acid, or sulfur or nitrogen analogues thereof, e.g. carbonylguanidines",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31317,
+	"key": "C07D 277/62",
+	"size": 3263.0,
+	"type": "Benzothiazoles",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30972,
+	"key": "C07D 235/12",
+	"size": 3259.0,
+	"type": "Radicals substituted by oxygen atoms",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30990,
+	"key": "C07D 237/14",
+	"size": 5176.0,
+	"type": "Oxygen atoms",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30999,
+	"key": "C07D 237/32",
+	"size": 2913.0,
+	"type": "with oxygen atoms directly attached to carbon atoms of the nitrogen-containing ring",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31042,
+	"key": "C07D 239/70",
+	"size": 4651.0,
+	"type": "condensed with carbocyclic rings or ring systems",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31056,
+	"key": "C07D 239/94",
+	"size": 5518.0,
+	"type": "Nitrogen atoms",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 31081,
+	"key": "C07D 241/44",
+	"size": 7140.0,
+	"type": "with hetero atoms or with carbon atoms having three bonds to hetero atoms with at the most one bond to halogen, e.g. ester or nitrile radicals, direct",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30820,
+	"key": "C07D 217/14",
+	"size": 3036.0,
+	"type": "other than aralkyl radicals",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30821,
+	"key": "C07D 217/16",
+	"size": 3714.0,
+	"type": "substituted by oxygen atoms",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30845,
+	"key": "C07D 221/18",
+	"size": 3696.0,
+	"type": "Ring systems of four or more rings",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30904,
+	"key": "C07D 231/40",
+	"size": 4222.0,
+	"type": "Acylated on said nitrogen atom",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30950,
+	"key": "C07D 233/72",
+	"size": 5232.0,
+	"type": "Two oxygen atoms, e.g. hydantoin",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 30951,
+	"key": "C07D 233/74",
+	"size": 3326.0,
+	"type": "with only hydrogen atoms or radicals containing only hydrogen and carbon atoms, attached to other ring members",
+	"category": "Organic chemistry (heterocyclic)",
+	"purpose": "Heterocyclic compounds"
+}, {
+	"id": 32254,
+	"key": "C07F 09/09",
+	"size": 14148.0,
+	"type": "Esters of phosphoric acids",
+	"category": "Other",
+	"purpose": "Acyclic, carbocyclic, or heterocyclic compounds containing elements other than carbon, hydrogen, halogen, oxygen, nitrogen, sulfur, selenium or tellurium"
+}, {
+	"id": 32281,
+	"key": "C07F 09/24",
+	"size": 9538.0,
+	"type": "Esteramides",
+	"category": "Other",
+	"purpose": "Acyclic, carbocyclic, or heterocyclic compounds containing elements other than carbon, hydrogen, halogen, oxygen, nitrogen, sulfur, selenium or tellurium"
+}, {
+	"id": 32291,
+	"key": "C07F 09/44",
+	"size": 3537.0,
+	"type": "Amides thereof",
+	"category": "Other",
+	"purpose": "Acyclic, carbocyclic, or heterocyclic compounds containing elements other than carbon, hydrogen, halogen, oxygen, nitrogen, sulfur, selenium or tellurium"
+}, {
+	"id": 32437,
+	"key": "C07H 15/24",
+	"size": 2523.0,
+	"type": "Condensed ring systems having three or more rings",
+	"category": "Other",
+	"purpose": "Sugars; derivatives thereof; nucleosides; nucleotides; nucleic acids"
+}, {
+	"id": 32440,
+	"key": "C07H 15/252",
+	"size": 5498.0,
+	"type": "Naphthacene radicals, e.g. daunomycins, adriamycins",
+	"category": "Other",
+	"purpose": "Sugars; derivatives thereof; nucleosides; nucleotides; nucleic acids"
+}, {
+	"id": 32478,
+	"key": "C07H 21/02",
+	"size": 21038.0,
+	"type": "with ribosyl as saccharide radical",
+	"category": "Other",
+	"purpose": "Sugars; derivatives thereof; nucleosides; nucleotides; nucleic acids"
+}, {
+	"id": 32501,
+	"key": "C07J 63/00",
+	"size": 5417.0,
+	"type": "Steroids in which the cyclopenta[a]hydrophenanthrene skeleton has been modified by expansion of only one ring by one or two atoms",
+	"category": "Other",
+	"purpose": "Steroids"
+}, {
+	"id": 32506,
+	"key": "C07J 73/00",
+	"size": 3270.0,
+	"type": "Steroids in which the cyclopenta[a]hydrophenanthrene skeleton has been modified by substitution of one or two carbon atoms by hetero atoms",
+	"category": "Other",
+	"purpose": "Steroids"
+}, {
+	"id": 32527,
+	"key": "C07K 01/30",
+	"size": 3188.0,
+	"type": "by precipitation",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32576,
+	"key": "C07K 07/23",
+	"size": 3696.0,
+	"type": "Luteinising hormone-releasing hormone (LHRH); Related peptides",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32595,
+	"key": "C07K 14/025",
+	"size": 3786.0,
+	"type": "Papovaviridae, e.g. papillomavirus, polyomavirus, SV40, BK virus, JC virus",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32612,
+	"key": "C07K 14/11",
+	"size": 4303.0,
+	"type": "Orthomyxoviridae, e.g. influenza virus",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32620,
+	"key": "C07K 14/15",
+	"size": 3310.0,
+	"type": "Retroviridae, e.g. bovine leukaemia virus, feline leukaemia virus, human T-cell leukaemia-lymphoma virus",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32632,
+	"key": "C07K 14/21",
+	"size": 3272.0,
+	"type": "from Pseudomonadaceae (F)",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32779,
+	"key": "C07K 16/46",
+	"size": 14811.0,
+	"type": "Hybrid immunoglobulins",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32788,
+	"key": "C07K 19/00",
+	"size": 54528.0,
+	"type": "Hybrid peptides",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32754,
+	"key": "C07K 14/82",
+	"size": 8289.0,
+	"type": "Translation products from oncogenes",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32769,
+	"key": "C07K 16/26",
+	"size": 4534.0,
+	"type": "against hormones",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32770,
+	"key": "C07K 16/28",
+	"size": 57836.0,
+	"type": "against receptors, cell surface antigens or cell surface determinants",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32771,
+	"key": "C07K 16/30",
+	"size": 19641.0,
+	"type": "from tumour cells",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32772,
+	"key": "C07K 16/32",
+	"size": 6673.0,
+	"type": "against translation products from oncogenes",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32777,
+	"key": "C07K 16/42",
+	"size": 6912.0,
+	"type": "against immunoglobulins (anti-idiotypic antibodies)",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32698,
+	"key": "C07K 14/54",
+	"size": 11496.0,
+	"type": "Interleukins (IL)",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32700,
+	"key": "C07K 14/55",
+	"size": 4099.0,
+	"type": "IL-2",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32708,
+	"key": "C07K 14/59",
+	"size": 2627.0,
+	"type": "Follicle-stimulating hormone (FSH); Chorionic gonadotropins, e.g. HCG; Luteinising hormone (LH); Thyroid-stimulating hormone (TSH)",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32734,
+	"key": "C07K 14/72",
+	"size": 7554.0,
+	"type": "for hormones",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32735,
+	"key": "C07K 14/725",
+	"size": 3680.0,
+	"type": "T-cell receptors",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32738,
+	"key": "C07K 14/74",
+	"size": 3422.0,
+	"type": "Major histocompatibility complex (MHC)",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32656,
+	"key": "C07K 14/33",
+	"size": 2637.0,
+	"type": "from Clostridium (G)",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32660,
+	"key": "C07K 14/35",
+	"size": 3163.0,
+	"type": "from Mycobacteriaceae (F)",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32689,
+	"key": "C07K 14/495",
+	"size": 3256.0,
+	"type": "Transforming growth factor (TGF)",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32694,
+	"key": "C07K 14/52",
+	"size": 25563.0,
+	"type": "Cytokines; Lymphokines; Interferons",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32696,
+	"key": "C07K 14/53",
+	"size": 2663.0,
+	"type": "Colony-stimulating factor (CSF)",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 32697,
+	"key": "C07K 14/535",
+	"size": 4216.0,
+	"type": "Granulocyte CSF; Granulocyte-macrophage CSF",
+	"category": "Organic chemistry (peptides)",
+	"purpose": "Peptides"
+}, {
+	"id": 37772,
+	"key": "C12G 03/04",
+	"size": 8142.0,
+	"type": "by mixing, e.g. liqueurs",
+	"category": "Other",
+	"purpose": "Wine; other alcoholic beverages; preparation thereof"
+}, {
+	"id": 37859,
+	"key": "C12N 01/15",
+	"size": 63368.0,
+	"type": "modified by introduction of foreign genetic material",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37862,
+	"key": "C12N 01/19",
+	"size": 77408.0,
+	"type": "modified by introduction of foreign genetic material",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37864,
+	"key": "C12N 01/21",
+	"size": 134919.0,
+	"type": "modified by introduction of foreign genetic material",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37875,
+	"key": "C12N 05/00",
+	"size": 40956.0,
+	"type": "Undifferentiated human, animal or plant cells, e.g. cell lines; Tissues; Cultivation or maintenance thereof; Culture media therefor",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37878,
+	"key": "C12N 05/07",
+	"size": 6931.0,
+	"type": "Animal cells or tissues",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37881,
+	"key": "C12N 05/0735",
+	"size": 3679.0,
+	"type": "Embryonic stem cells; Embryonic germ cells",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 38067,
+	"key": "C12N 15/861",
+	"size": 8214.0,
+	"type": "Adenoviral vectors",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 38068,
+	"key": "C12N 15/863",
+	"size": 2918.0,
+	"type": "Poxviral vectors, e.g. vaccinia virus",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 38071,
+	"key": "C12N 15/867",
+	"size": 5956.0,
+	"type": "Retroviral vectors",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37996,
+	"key": "C12N 15/16",
+	"size": 4154.0,
+	"type": "Hormones",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37999,
+	"key": "C12N 15/19",
+	"size": 4940.0,
+	"type": "Interferons; Lymphokines; Cytokines",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 38004,
+	"key": "C12N 15/24",
+	"size": 2913.0,
+	"type": "Interleukins",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 38042,
+	"key": "C12N 15/62",
+	"size": 26357.0,
+	"type": "DNA sequences coding for fusion proteins",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 38059,
+	"key": "C12N 15/79",
+	"size": 3551.0,
+	"type": "Vectors or expression systems specially adapted for eukaryotic hosts",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 38065,
+	"key": "C12N 15/85",
+	"size": 30818.0,
+	"type": "for animal cells",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37904,
+	"key": "C12N 05/20",
+	"size": 6059.0,
+	"type": "one of the fusion partners being a B lymphocyte",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37947,
+	"key": "C12N 09/64",
+	"size": 19186.0,
+	"type": "derived from animal tissue, e.g. rennin",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37960,
+	"key": "C12N 09/90",
+	"size": 5279.0,
+	"type": "Isomerases (5.)",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37986,
+	"key": "C12N 15/09",
+	"size": 327871.0,
+	"type": "Recombinant DNA-technology",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37988,
+	"key": "C12N 15/11",
+	"size": 30505.0,
+	"type": "DNA or RNA fragments; Modified forms thereof",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37993,
+	"key": "C12N 15/13",
+	"size": 14753.0,
+	"type": "Immunoglobulins",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37887,
+	"key": "C12N 05/078",
+	"size": 2828.0,
+	"type": "Cells from blood or from the immune system",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37889,
+	"key": "C12N 05/0783",
+	"size": 4385.0,
+	"type": "T cells; NK cells; Progenitors of T or NK cells",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37893,
+	"key": "C12N 05/0789",
+	"size": 3830.0,
+	"type": "Stem cells; Multipotent progenitor cells",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37897,
+	"key": "C12N 05/09",
+	"size": 2665.0,
+	"type": "Tumour cells",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37899,
+	"key": "C12N 05/10",
+	"size": 161259.0,
+	"type": "Cells modified by introduction of foreign genetic material, e.g. virus-transformed cells",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 37900,
+	"key": "C12N 05/12",
+	"size": 2663.0,
+	"type": "Fused cells, e.g. hybridomas",
+	"category": "Enzymology, Microbiology",
+	"purpose": "Micro-organisms or enzymes; compositions thereof; propagating, preserving, or maintaining micro-organisms; mutation or genetic engineering; culture media"
+}, {
+	"id": 38138,
+	"key": "C12P 17/02",
+	"size": 2618.0,
+	"type": "Oxygen as only ring hetero atoms",
+	"category": "Other",
+	"purpose": "Fermentation or enzyme-using processes to synthesise a desired chemical compound or composition or to separate optical isomers from a racemic mixture"
+}, {
+	"id": 38164,
+	"key": "C12P 19/34",
+	"size": 21400.0,
+	"type": "Polynucleotides, e.g. nucleic acids, oligoribonucleotides",
+	"category": "Other",
+	"purpose": "Fermentation or enzyme-using processes to synthesise a desired chemical compound or composition or to separate optical isomers from a racemic mixture"
+}, {
+	"id": 38181,
+	"key": "C12P 21/02",
+	"size": 110251.0,
+	"type": "having a known sequence of two or more amino acids, e.g. glutathione",
+	"category": "Other",
+	"purpose": "Fermentation or enzyme-using processes to synthesise a desired chemical compound or composition or to separate optical isomers from a racemic mixture"
+}, {
+	"id": 38184,
+	"key": "C12P 21/08",
+	"size": 75064.0,
+	"type": "Monoclonal antibodies",
+	"category": "Other",
+	"purpose": "Fermentation or enzyme-using processes to synthesise a desired chemical compound or composition or to separate optical isomers from a racemic mixture"
+}, {
+	"id": 38232,
+	"key": "C12Q 01/37",
+	"size": 14686.0,
+	"type": "involving peptidase or proteinase",
+	"category": "Other",
+	"purpose": "Measuring or testing processes involving enzymes or micro-organisms; compositions or test papers therefor; processes of preparing such compositions; condition-responsive control in microbiological or enzymological processes"
+}, {
+	"id": 38237,
+	"key": "C12Q 01/48",
+	"size": 17740.0,
+	"type": "involving transferase",
+	"category": "Other",
+	"purpose": "Measuring or testing processes involving enzymes or micro-organisms; compositions or test papers therefor; processes of preparing such compositions; condition-responsive control in microbiological or enzymological processes"
+}, {
+	"id": 39999,
+	"key": "C40B 30/04",
+	"size": 7489.0,
+	"type": "by measuring the ability to specifically bind a target molecule, e.g. antibody-antigen binding, receptor-ligand binding",
+	"category": "Other",
+	"purpose": "Combinatorial chemistry; libraries, e.g. chemical libraries, in silico libraries"
+}, {
+	"id": 56568,
+	"key": "G01N 24/00",
+	"size": 2950.0,
+	"type": "Investigating or analysing materials by the use of nuclear magnetic resonance, electron paramagnetic resonance or other spin effects",
+	"category": "Chemical Analysis",
+	"purpose": "Investigating or analysing materials by determining their chemical or physical properties"
+}, {
+	"id": 56740,
+	"key": "G01N 30/72",
+	"size": 5773.0,
+	"type": "Mass spectrometers",
+	"category": "Chemical Analysis",
+	"purpose": "Investigating or analysing materials by determining their chemical or physical properties"
+}, {
+	"id": 56765,
+	"key": "G01N 33/00",
+	"size": 39393.0,
+	"type": "Investigating or analysing materials by specific methods not covered by groups ",
+	"category": "Chemical Analysis",
+	"purpose": "Investigating or analysing materials by determining their chemical or physical properties"
+}, {
+	"id": 56794,
+	"key": "G01N 33/493",
+	"size": 4149.0,
+	"type": "urine",
+	"category": "Chemical Analysis",
+	"purpose": "Investigating or analysing materials by determining their chemical or physical properties"
+}, {
+	"id": 56804,
+	"key": "G01N 33/536",
+	"size": 4455.0,
+	"type": "with immune complex formed in liquid phase",
+	"category": "Chemical Analysis",
+	"purpose": "Investigating or analysing materials by determining their chemical or physical properties"
+}, {
+	"id": 56833,
+	"key": "G01N 33/573",
+	"size": 14534.0,
+	"type": "for enzymes or isoenzymes",
+	"category": "Chemical Analysis",
+	"purpose": "Investigating or analysing materials by determining their chemical or physical properties"
+}, {
+	"id": 56834,
+	"key": "G01N 33/574",
+	"size": 43300.0,
+	"type": "for cancer",
+	"category": "Chemical Analysis",
+	"purpose": "Investigating or analysing materials by determining their chemical or physical properties"
+}, {
+	"id": 56836,
+	"key": "G01N 33/577",
+	"size": 31106.0,
+	"type": "involving monoclonal antibodies",
+	"category": "Chemical Analysis",
+	"purpose": "Investigating or analysing materials by determining their chemical or physical properties"
+}, {
+	"id": 57358,
+	"key": "G01R 33/32",
+	"size": 4782.0,
+	"type": "Excitation or detection systems, e.g. using radiofrequency signals",
+	"category": "Other",
+	"purpose": "Measuring electric variables; measuring magnetic variables"
+}, {
+	"id": 60265,
+	"key": "G06F 19 / 18",
+	"size": 2550.0,
+	"type": "for functional genomics or proteomics, e.g.genotype - phenotype associations, linkage disequilibrium, population genetics, binding site identification",
+	"category": "Other",
+	"purpose": "Electric digital data processing"
+}]
