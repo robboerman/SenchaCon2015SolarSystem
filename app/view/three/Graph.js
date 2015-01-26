@@ -136,10 +136,13 @@ Ext.define('Threext.view.three.Graph', {
 		});
 
 		if (this.storesToLoad.length === 0) {
+			if(this.initializing === true){
+				this.start();
+			}
+
 			this.initializing = false;
 
 			this.refresh();
-			this.start();
 		}
 	},
 
@@ -147,6 +150,7 @@ Ext.define('Threext.view.three.Graph', {
 		if (this.initializing) {
 			return;
 		}
+
 
 
 		var oldIndex;
@@ -241,6 +245,7 @@ Ext.define('Threext.view.three.Graph', {
 	},
 
 	tick: function() {
+		if(this.initializing) return;
 
 		var nodes = this.nodes,
 			links = this.links,
@@ -258,7 +263,7 @@ Ext.define('Threext.view.three.Graph', {
 					p.x - q.x,
 					p.y - q.y,
 					p.z - q.z
-				).multiplyScalar((i.data.category === j.data.category ? 1 : 1.3) / (p.distanceTo(q))));
+				).multiplyScalar((i.data.category === j.data.category ? 1 : 1.2) / (p.distanceTo(q))));
 			});
 
 			p.multiplyScalar(0.8);
@@ -271,7 +276,7 @@ Ext.define('Threext.view.three.Graph', {
 				s.x - t.x,
 				s.y - t.y,
 				s.z - t.z
-			).multiplyScalar(Math.min(0.0125, 0.000006 * i.data.strength * Math.log(s.distanceTo(t))));
+			).multiplyScalar(0.005 * i.data.strength * i.data.strength * Math.log(s.distanceTo(t)));
 
 			s.velocity.sub(d);
 			t.velocity.add(d);
@@ -279,7 +284,7 @@ Ext.define('Threext.view.three.Graph', {
 
 		_.each(nodes, function(i) {
 			var p = nodeElements[i.id];
-			p.add(p.velocity.multiplyScalar(0.9));
+			p.add(p.velocity);
 			i.x = p.x;
 			i.y = p.y;
 			i.z = p.z;
