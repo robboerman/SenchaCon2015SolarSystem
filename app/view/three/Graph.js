@@ -30,7 +30,7 @@ Ext.define('Threext.view.three.Graph', {
 	nodeUniforms: {
 		texture: {
 			type: "t",
-			value: THREE.ImageUtils.loadTexture("api/textures/sprites/disc.png")
+			value: THREE.ImageUtils.loadTexture("api/textures/sprites/ball.png")
 		}
 	},
 
