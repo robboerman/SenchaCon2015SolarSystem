@@ -15,6 +15,8 @@ Ext.define('Threext.view.three.Graph', {
 	storesToLoad: ['Links', 'Nodes'],
 	initializing: true,
 
+	blobs: {},
+
 	nodes: [],
 	nodeElements: {},
 	nodeAttributes: {
@@ -30,7 +32,7 @@ Ext.define('Threext.view.three.Graph', {
 	nodeUniforms: {
 		texture: {
 			type: "t",
-			value: THREE.ImageUtils.loadTexture("api/textures/sprites/disc.png")
+			value: THREE.ImageUtils.loadTexture("api/textures/sprites/ball.png")
 		}
 	},
 
@@ -98,24 +100,23 @@ Ext.define('Threext.view.three.Graph', {
 
 		window.g = this;
 
-
 		this.nodeMaterial = new THREE.ShaderMaterial({
-				uniforms: this.nodeUniforms,
-				attributes: this.nodeAttributes,
-				vertexShader: this.nodeVShader,
-				fragmentShader: this.nodeFShader,
-				vertexColors: THREE.VertexColors,
-				transparent: true,
-			}),
+			uniforms: this.nodeUniforms,
+			attributes: this.nodeAttributes,
+			vertexShader: this.nodeVShader,
+			fragmentShader: this.nodeFShader,
+			vertexColors: THREE.VertexColors,
+			transparent: true,
+		});
 
-			this.linkMaterial = new THREE.ShaderMaterial({
-				uniforms: this.linkUniforms,
-				attributes: this.linkAttributes,
-				vertexShader: this.linkVShader,
-				fragmentShader: this.linkFShader,
-				vertexColors: THREE.VertexColors,
-				transparent: true,
-			});
+		this.linkMaterial = new THREE.ShaderMaterial({
+			uniforms: this.linkUniforms,
+			attributes: this.linkAttributes,
+			vertexShader: this.linkVShader,
+			fragmentShader: this.linkFShader,
+			vertexColors: THREE.VertexColors,
+			transparent: true,
+		});
 
 		return this.callParent(arguments);
 	},
@@ -136,7 +137,7 @@ Ext.define('Threext.view.three.Graph', {
 		});
 
 		if (this.storesToLoad.length === 0) {
-			if(this.initializing === true){
+			if (this.initializing === true) {
 				this.start();
 			}
 
@@ -150,8 +151,6 @@ Ext.define('Threext.view.three.Graph', {
 		if (this.initializing) {
 			return;
 		}
-
-
 
 		var oldIndex;
 		if (this.nodes) {
@@ -219,10 +218,12 @@ Ext.define('Threext.view.three.Graph', {
 
 	addNodes: function(nodes, scene) {
 		if (this.pointCloud) {
-			this.getScene().remove(this.pointCloud);
+			scene.remove(this.pointCloud);
+			_.each(this.blobs, function(blob){scene.remove(blob);});
 		}
 
-		var material = this.nodeMaterial;
+		var material = this.nodeMaterial,
+			blobMaterial = this.blobMaterial;
 
 		var geometry = new THREE.Geometry(),
 			nodeElements = this.nodeElements;
@@ -230,22 +231,39 @@ Ext.define('Threext.view.three.Graph', {
 		var nodeAttributes = this.nodeAttributes,
 			getColor = this.getColor;
 
+		var catNodes = this.catNodes = {};
+
 		_.each(nodes, function(n, i) {
 			var p = nodeElements[n.id] || new THREE.Vector3(n.x, n.y, n.z);
 			nodeElements[n.id] = p;
 			geometry.vertices.push(p);
 			nodeAttributes.size.value[i] = Number(n.data.size);
 			nodeAttributes.color.value[i] = new THREE.Color(getColor(n.data.category));
+
+			catNodes[n.data.category] = catNodes[n.data.category] || [];
+			catNodes[n.data.category].push(p);
 		});
 
 		var pointCloud = this.pointCloud = new THREE.PointCloud(geometry, material);
+		this.blobs = _.reduce(catNodes, function(blobs, blob, category) {
+			blobs[category] = new THREE.Mesh(new THREE.ConvexGeometry(blob), new THREE.MeshLambertMaterial({
+				color: new THREE.Color(getColor(category)),
+				ambient: new THREE.Color(getColor(category)),
+				opacity: 0.5,
+				transparent: true
+			}));
+			return blobs;
+		}, {});
 		pointCloud.sortParticles = true;
 
 		scene.add(pointCloud);
+		_.each(this.blobs, function(blob) {
+			scene.add(blob);
+		});
 	},
 
 	tick: function() {
-		if(this.initializing) return;
+		if (this.initializing) return;
 
 		var nodes = this.nodes,
 			links = this.links,
@@ -292,6 +310,12 @@ Ext.define('Threext.view.three.Graph', {
 
 		this.pointCloud.geometry.verticesNeedUpdate = true;
 		this.line.geometry.verticesNeedUpdate = true;
+
+		var catNodes = this.catNodes;
+		_.each(this.blobs, function(blob, cat) {
+			blob.geometry = new THREE.ConvexGeometry(catNodes[cat])
+			blob.geometry.verticesNeedUpdate = true;
+		});
 
 		this.nodeAttributes.size.needsUpdate = true;
 		this.nodeAttributes.color.needsUpdate = true;

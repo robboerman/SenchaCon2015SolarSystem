@@ -115,6 +115,9 @@
             "path": "resources/vendor/d3.js"
         },
         {
+            "path": "resources/vendor/ConvexGeometry.js"
+        },
+        {
             "path": "app.js",
             "bundle": true
         }
