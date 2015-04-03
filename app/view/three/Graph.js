@@ -276,7 +276,7 @@ Ext.define('Threext.view.three.Graph', {
 				s.x - t.x,
 				s.y - t.y,
 				s.z - t.z
-			).multiplyScalar(0.005 * i.data.strength * i.data.strength * Math.log(s.distanceTo(t)));
+			).multiplyScalar(0.006 * i.data.strength * i.data.strength * Math.log(s.distanceTo(t)));
 
 			s.velocity.sub(d);
 			t.velocity.add(d);

@@ -19,12 +19,11 @@ Ext.define('Threext.view.three.Panel', {
 		sceneWidth: 600,
 		sceneHeight: 600,
 		sceneDepth: 600,
-		controls: null
+		controls: null,
+		controlsEnabled: false
 	},
 
 	session: true,
-	firstrun: true,
-
 	/**
 	 * @method constructor
 	 * @param  {Object} config Configuration
@@ -36,8 +35,8 @@ Ext.define('Threext.view.three.Panel', {
 			scene: new THREE.Scene(),
 			light: new THREE.AmbientLight(0x404040),
 			renderer: new THREE.WebGLRenderer({
-				// antialias: true,
-				// alpha: true
+				antialias: true,
+				alpha: true
 			})
 		});
 
@@ -73,9 +72,8 @@ Ext.define('Threext.view.three.Panel', {
 		renderer.setPixelRatio(window.devicePixelRatio);
 		dom.appendChild(renderer.domElement);
 
-		camera.position.z = this.getSceneDepth() * 2.5;
-
-		var controls = new THREE.TrackballControls(camera);
+		var camera = this.getCamera(),
+			controls = new THREE.TrackballControls(camera);
 
 		controls.rotateSpeed = 1.0;
 		controls.zoomSpeed = 1.2;
@@ -84,15 +82,28 @@ Ext.define('Threext.view.three.Panel', {
 		controls.noPan = false;
 		controls.staticMoving = true;
 		controls.dynamicDampingFactor = 0.3;
+		// controls.enabled = this.getControlsEnabled();
 
 		this.setControls(controls);
 
+
+		camera.position.z = this.getSceneDepth() * 2.5;
+
 		this.initScene(scene);
+	},
+
+	updateControlsEnabled: function(enabled) {
+		var controls = this.getControls();
+		if (controls) {
+			controls.enabled = enabled;
+		}
 	},
 
 	initScene: function(scene) {
 		var light = this.getLight();
 		scene.add(light);
+
+		this.camera.lookAt(this.scene.position);
 	},
 
 	start: function() {
@@ -110,12 +121,11 @@ Ext.define('Threext.view.three.Panel', {
 		var camera = this.getCamera(),
 			renderer = this.getRenderer(),
 			scene = this.getScene();
-			
+		if (this.getControlsEnabled()) {
+			this.getControls().update();
+		}
+
 		this.tick();
-
-		this.getControls().update();
-
-		camera.lookAt(scene.position);
 		// scene.rotateX(0.000005);
 		// scene.rotateY(0.000005);
 		// scene.rotateZ(0.0005 * (0.5 + Math.cos(this.counter/(190*Math.PI))));

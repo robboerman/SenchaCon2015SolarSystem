@@ -729,14 +729,21 @@ $include-threext-application: true;
 $include-threext-model-base: true;
 $include-threext-model-link: true;
 $include-threext-model-node: true;
+$include-threext-model-planet: true;
+$include-threext-model-star: true;
 $include-threext-override-data-proxy-webstorage: true;
 $include-threext-store-links: true;
 $include-threext-store-nodes: true;
+$include-threext-store-planets: true;
+$include-threext-store-stars: true;
 $include-threext-view-main-main: true;
 $include-threext-view-main-maincontroller: true;
 $include-threext-view-main-mainmodel: true;
+$include-threext-view-three-cubes: true;
+$include-threext-view-three-galaxy: true;
 $include-threext-view-three-graph: true;
 $include-threext-view-three-panel: true;
+$include-threext-view-three-tunnel: true;
 /* including package ext-theme-base */
 @import '../../../../../ext/packages/ext-theme-base/sass/etc/all';
 /* including package ext-theme-neutral */
