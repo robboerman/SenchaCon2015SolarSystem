@@ -11,7 +11,8 @@ Ext.define('Threext.view.main.Main', {
 		'Threext.view.main.MainController',
 		'Threext.view.main.MainModel',
 		'Threext.view.three.Graph',
-		'Threext.override.data.proxy.WebStorage'
+		'Threext.override.data.proxy.WebStorage',
+		'Threext.view.three.Galaxy'
 	],
 
 	xtype: 'app-main',

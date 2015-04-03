@@ -109,14 +109,19 @@ Ext.define('Threext.view.three.Galaxy', {
 		this.callParent(arguments);
 		this.camera.far = 150000000;
 
-		this.camera.position.x = 0;
-		this.camera.position.y = 0;
-		this.camera.position.z = 2000000;
 		this.light.color = new THREE.Color(0xffffdd);
 		this.renderer.setClearColor(0x000000);
 
-		this.createEnvironment();
 
+
+		this.camera.position.x = 0;
+		this.camera.position.y = 0;
+		this.camera.position.z = 0;
+		this.camera.rotation.x = 0;
+		this.camera.rotation.y = 0;
+		this.camera.rotation.z = 0;
+
+		this.createEnvironment();
 		var planetData = this.planetStore.getRange(),
 			starData = this.starStore.getRange(),
 			planets = {},
@@ -168,7 +173,7 @@ Ext.define('Threext.view.three.Galaxy', {
 			var mesh = new THREE.Mesh(geo, material);
 			mesh.position.x = planet.data.distance / 100;
 
-			mesh.rotateX(Math.PI * 0.5);
+			// mesh.rotateX(Math.PI * 0.5);
 
 			planets[planet.data.name] = {
 				model: planet,
@@ -187,7 +192,6 @@ Ext.define('Threext.view.three.Galaxy', {
 
 			var texture = THREE.ImageUtils.loadTexture('api/textures/planets/SF_maps_blend.png');
 			texture.repeat = new THREE.Vector2(1, 1);
-			texture.mapping
 			texture.needsUpdate = true;
 
 			var material = new THREE.MeshLambertMaterial({
@@ -196,11 +200,6 @@ Ext.define('Threext.view.three.Galaxy', {
 				transparent: true,
 				opacity: 0.5
 			});
-
-			var start = 0;
-			var length = Math.PI;
-
-
 
 			var tl = [38.385009, -123.393766],
 				br = [36.885803, -120.821010],
@@ -213,18 +212,28 @@ Ext.define('Threext.view.three.Galaxy', {
 			var mesh = new THREE.Mesh(geo, material);
 			mesh.position.x = planetData[2].data.distance / 100;
 
-			mesh.rotateX(Math.PI * 0.5);
+			// mesh.rotateX(Math.PI * 0.5);
 
 			planets.earth2 = {
 				model: planetData[2],
 				mesh: mesh,
-				star: stars['Sun']
+				star: stars.Sun
 			};
 			scene.add(mesh);
 		}
 
 		this.planets = planets;
 		this.stars = stars;
+
+		window.setTimeout(function(){
+			this.lookAt('Earth');
+			this.camera.position.x = 1490546.2244161519;
+			this.camera.position.y = 20661.84818385625;
+			this.camera.position.z = 8647.123616755389;
+			this.camera.rotation.x = -0.7336154334649239;
+			this.camera.rotation.y = -0.43419466088636577;
+			this.camera.rotation.z = -0.3299975322539685;
+		}.bind(this), 10)
 
 		this.start();
 	},
@@ -252,7 +261,27 @@ Ext.define('Threext.view.three.Galaxy', {
 			camera.position.add(target.d);
 		}
 
+		if(target && target.mesh && target.mesh.position) {
+			var camDist = this.camera.position.distanceTo(target.mesh.position) - target.model.data.radius;
+			if(camDist < 0){
+				this.camera.position.x = this.previousCameraPosition.x;
+				this.camera.position.y = this.previousCameraPosition.y;
+				this.camera.position.z = this.previousCameraPosition.z;
+				console.log(this.camera.position, this.previousCameraPosition)
+			}
+			if(this.previousCameraPosition && (this.camera.position.x != this.previousCameraPosition.x || this.camera.position.y != this.previousCameraPosition.y || this.camera.position.z != this.previousCameraPosition.z)) {
+				this.controls.zoomSpeed = Math.pow(Math.log(camDist)/(5*Math.log(10)),4);
+				this.controls.rotateSpeed = Math.pow(Math.log(camDist)/(5*Math.log(10)),5);
+				this.controls.update();
+			}
+		}
+
 		this.cubeCamera.rotation.copy(camera.rotation);
 		this.renderer.render(this.cubeScene, this.cubeCamera);
+		this.previousCameraPosition = {
+			x: this.camera.position.x,
+			y: this.camera.position.y,
+			z: this.camera.position.z
+		};
 	}
 });
